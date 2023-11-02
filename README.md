@@ -12,3 +12,10 @@
 
 ## From VSCode
 
+
+# From Win11
+* Blabla
+* Blabla
+* Blabla
+* Blabla
+
